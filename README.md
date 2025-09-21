@@ -1,55 +1,46 @@
-<h1 align="center">Hi 👋, I'm Rayan (U-nx)</h1>
-<h3 align="center">Frontend & Backend Developer</h3>
+## Hey 👋, I'm Rayan (U-nx)  
+<a href='https://www.linkedin.com/in/k-azr4'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://x.com/k_azr3'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<!-- Add more small icons if you have logos for each service -->
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=U-nx&label=Profile%20views&color=0e75b6&style=flat" alt="U-nx" /> 
-</p>
+I am a passionate **Frontend & Backend Developer 🌐** from Saudi Arabia.  
+I explore tech stacks, build apps, and love sharing what I learn.  
+<br/><br/>
 
----
+<img align="right" alt="Tech GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://youtube.com/@2.5c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://x.com/k_azr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
-  <a href="https://www.threads.com/@k.azr4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Threads_(app)_logo.svg" alt="Threads" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/k.azr4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://tellonym.me/v50_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tellonym_logo.svg" alt="Tellonym" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/k.azr4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://www.tiktok.com/@k.azr4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="40" /></a>
-</p>
+### 🧐 More About Me:
 
----
+- 🔭 &nbsp; I’m currently working on **projects to improve my skills**  
+- 🌱 &nbsp; Learning **TypeScript & Modern Web Tools**  
+- 👨🏻‍💻 &nbsp; Most of my work is on [GitHub](https://github.com/U-nx?tab=repositories)  
+- 💬 &nbsp; Ask me about **C, C++, C#, HTML, CSS, JavaScript**  
+- 📫 &nbsp; Reach me at [abhishknads.work@gmail.com](mailto:abhishknads.work@gmail.com)  
+- 📚 &nbsp; In free time, I enjoy exploring social platforms and creating small tools or bots  
 
-### ⚒️ Languages and Tools:
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-</p>
+<br>
 
----
+### 🔨 Languages and Tools:
+<a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cplusplus/cplusplus.svg"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg"></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
 
-### 📊 This week I spent my time on:
-<!--START_SECTION:waka-->
+<br><br><br>
 
-```txt
-C            5 hrs 10 mins   ██████████▓░░░░░░░░░░░░░░   43.00 %
-C++          3 hrs 40 mins   ████████░░░░░░░░░░░░░░░░░   30.50 %
-C#           1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-HTML/CSS     1 hr 00 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-JavaScript   35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+### 📊 Github Stats
+<a href='https://github.com/U-nx/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
+
+### 🛠️ My Projects
+<a href="https://github.com/U-nx/PROJECT1" target="_blank"> <img alt="project1" src="./projects/project1.svg" height="68" align="left"> </a>
+<a href="https://github.com/U-nx/PROJECT2" target="_blank"> <img alt="project2" src="./projects/project2.svg"  height="68" align="left"> </a>
+<a href="https://github.com/U-nx/PROJECT3" target="_blank"> <img alt="project3" src="./projects/project3.svg" height="68" align="left"> </a>
