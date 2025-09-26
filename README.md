@@ -24,10 +24,10 @@ I enjoy exploring new technologies and building useful/fun stuff.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
+
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=U-nx&show_icons=true&theme=tokyonight" alt="U-nx stats" />  
-</p>
-<p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=U-nx&theme=tokyonight" alt="U-nx streak" />  
 </p>
+
