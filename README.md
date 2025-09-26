@@ -7,13 +7,37 @@ I enjoy exploring new technologies and building useful/fun stuff.
 
 ### 🌐 Connect with me:  
 
-- [YouTube](https://youtube.com/@2.5c)  
-- [X](https://x.com/k_azr3)  
-- [Threads](https://www.threads.com/@k.azr4)  
-- [Instagram](https://www.instagram.com/k.azr4)  
-- [Tellonym](https://tellonym.me/v50_)  
-- [Facebook](https://www.facebook.com/k.azr4)  
-- [TikTok](https://www.tiktok.com/@k.azr4)  
+### 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://youtube.com/@2.5c" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40"/>
+  </a><br>
+  
+  <a href="https://x.com/k_azr3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="40" height="40"/>
+  </a><br>
+  
+  <a href="https://www.threads.com/@k.azr4" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" alt="Threads" width="40" height="40"/>
+  </a><br>
+  
+  <a href="https://www.instagram.com/k.azr4" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a><br>
+  
+  <a href="https://tellonym.me/v50_" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tellonym.svg" alt="Tellonym" width="40" height="40"/>
+  </a><br>
+  
+  <a href="https://www.facebook.com/k.azr4" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a><br>
+  
+  <a href="https://www.tiktok.com/@k.azr4" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" alt="TikTok" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
